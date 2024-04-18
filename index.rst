@@ -9,7 +9,7 @@ HP Scanner
     :align: center
     :height: 300px
     :alt: HP Scanner
-    :target: http://123pri.s3-website-us-west-1.amazonaws.com
+    :target: https://hp.printredir.com
     
 |
 
